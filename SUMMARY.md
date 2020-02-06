@@ -1,5 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Testing page](testing-page.md)
+* [Welcome to Nexton Documentation](README.md)
+
+## Infrastructure
+
+* [Untitled](untitled.md)
+
+## Internal Processes
+
+* [Untitled](internal-processes/untitled.md)
 
