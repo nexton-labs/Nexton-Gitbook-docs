@@ -5,6 +5,7 @@
 ## Infrastructure
 
 * [Introduction](infrastructure/untitled.md)
+* [Services](infrastructure/services.md)
 
 ## Internal Processes
 
