@@ -5,7 +5,10 @@
 ## Infrastructure
 
 * [Introduction](infrastructure/untitled.md)
-* [Services](infrastructure/services.md)
+* [DockerHub](infrastructure/dockerhub.md)
+* [AWS Elastic Beanstalk](infrastructure/aws-elastic-beanstalk.md)
+* [CircleCI](infrastructure/circleci.md)
+* [Putting it all together](infrastructure/putting-it-all-together.md)
 
 ## Internal Processes
 
