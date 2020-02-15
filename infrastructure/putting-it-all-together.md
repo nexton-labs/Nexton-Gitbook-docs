@@ -5,6 +5,7 @@ At this point, you already completed the following tasks:
 * Created a new repository in DockerHub to store our container images
 * Created a new Environment and Sample Docker application in AWS Elastic Beanstalk
 * Configured your GitHub repository in CircleCI and added the CircleCI configuration to you project
+* Created a new RDS DB
 
 So, we are almost done, but still needs some configuration tweaks to end up with our CI/CD pipeline.
 
