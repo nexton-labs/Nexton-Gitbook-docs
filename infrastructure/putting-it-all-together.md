@@ -114,7 +114,7 @@ docker build -t nextonlabs/team-talent-tool-api:dev .
 docker login -u $DOCKER_NEXTON_USER -p $DOCKER_NEXTON_PASS
 ```
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 3 - Uploads the container image to DockerHub
 
@@ -172,7 +172,7 @@ Open your `~/.docker/config.json` and remove the "credsStore": "oskeychain" entr
 
 One last thing you will need to consider is to create a new AWS IAM user to be used by CircleCI. This user should have access to S3 and EBS, you can create a deployers group and add it to it.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image.png)
 
 When you have your user created, you will need to generate an Access key to be used by CircleCI to communicate with AWS. You can generate that going to Security credentials tab. Then just add them to your CircleCI project
 
