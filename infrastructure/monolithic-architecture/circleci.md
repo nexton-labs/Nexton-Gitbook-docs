@@ -4,11 +4,11 @@ CircleCI is a continues integration and continues delivery server. There are no 
 
 When you are dealing with a new project that you want to build, just go to the console, click on the Add project button and you will see a list of all the projects that are not yet integrated with the service
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 Click on Set Up Project and this will send you to a screen to choose in which technology your project was developed and it will show you a config.yml template for that technology
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 You will need to copy that file and store it in a .circleci folder within your project, before hitting Start Building
 

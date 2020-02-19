@@ -12,5 +12,5 @@ Once we login with the [DockerHub](https://hub.docker.com/) account we can creat
 
 For creating a new Repository we have to click the Create Repository button and follow the instructions. ****
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 

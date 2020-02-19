@@ -4,12 +4,13 @@
 
 ## Infrastructure
 
-* [Introduction](infrastructure/untitled.md)
-* [DockerHub](infrastructure/dockerhub.md)
-* [AWS Elastic Beanstalk](infrastructure/aws-elastic-beanstalk.md)
-* [CircleCI](infrastructure/circleci.md)
-* [Databases](infrastructure/databases.md)
-* [Putting it all together](infrastructure/putting-it-all-together.md)
+* [Monolithic architecture](infrastructure/monolithic-architecture/README.md)
+  * [Introduction](infrastructure/monolithic-architecture/untitled.md)
+  * [DockerHub](infrastructure/monolithic-architecture/dockerhub.md)
+  * [AWS Elastic Beanstalk](infrastructure/monolithic-architecture/aws-elastic-beanstalk.md)
+  * [CircleCI](infrastructure/monolithic-architecture/circleci.md)
+  * [Databases](infrastructure/monolithic-architecture/databases.md)
+  * [Putting it all together](infrastructure/monolithic-architecture/putting-it-all-together.md)
 
 ## Internal Processes
 
