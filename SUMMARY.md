@@ -15,5 +15,5 @@
 ## Front End
 
 * [Code Style Guide](front-end/code-style-guide/README.md)
-  * [React](front-end/code-style-guide/react.md)
+  * [React/JSX Style Guide](front-end/code-style-guide/react.md)
 
