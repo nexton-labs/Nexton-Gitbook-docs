@@ -10,7 +10,7 @@ So, one of the first steps to create our continuous delivery pipeline is to crea
 
 Once we login with the [DockerHub](https://hub.docker.com/) account we can create a new repository for the new application we want to build and push.
 
-For creating a new Repository we have to click the Create Repository button and follow the instructions. ****
+For creating a new Repository we have to click the Create Repository button and follow the instructions. _\*\*_
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](https://github.com/nexton-labs/docs/tree/7da9da3c16b52046e57271ac9f6e8f9c76f282e1/.gitbook/assets/image%20%2814%29.png)
 

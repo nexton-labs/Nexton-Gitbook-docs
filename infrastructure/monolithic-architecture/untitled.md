@@ -13,6 +13,5 @@ The flow explained simply:
 
 The process starts with a push to a specific [GitHub branch](https://guides.github.com/introduction/flow/). Once we push something new to [GitHub](https://github.com), [CircleCI](https://circleci.com/) is triggered and runs the Continuous Integration steps specified on the circle.yml file.
 
-If we have a green build, [CircleCI](https://circleci.com/) also creates a Docker image and push it to the [DockerHub](https://hub.docker.com/) repository. Finally, we have to inform AWS that a new Docker image is available so it can be deployed into Amazon.  
-
+If we have a green build, [CircleCI](https://circleci.com/) also creates a Docker image and push it to the [DockerHub](https://hub.docker.com/) repository. Finally, we have to inform AWS that a new Docker image is available so it can be deployed into Amazon.
 

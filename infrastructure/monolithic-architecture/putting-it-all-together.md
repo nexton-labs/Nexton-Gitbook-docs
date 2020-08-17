@@ -9,8 +9,6 @@ At this point, you already completed the following tasks:
 
 So, we are almost done, but still needs some configuration tweaks to end up with our CI/CD pipeline.
 
-
-
 ![](https://lh5.googleusercontent.com/zyYQVUGSTlbb7ui9IOefGPAf8B-k6pNyWYIx-q7tzK8OtmeUzwFLNnUCk9oOxM-0lq82An_b8bJHfskFkmrhQ_JnzTJh_V3fNpGgGLDqKLwXoJmuDGvJQzZK6byc_70iCTVTB6wq)
 
 Let's start by taking a look into what our CircleCI script is doing:
@@ -115,7 +113,7 @@ docker build -t nextonlabs/team-talent-tool-api:dev .
 docker login -u $DOCKER_NEXTON_USER -p $DOCKER_NEXTON_PASS
 ```
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](https://github.com/nexton-labs/docs/tree/7da9da3c16b52046e57271ac9f6e8f9c76f282e1/.gitbook/assets/image%20%2820%29.png)
 
 3 - Uploads the container image to DockerHub
 
@@ -159,7 +157,7 @@ This file is using an EB\_BUCKET, that is an S3 bucket that is being created aut
 
 AWS EBS will need to have access to your DockerHub container image to be able to pick it up and deploy it. So, to do that, it needs to have a config file stored in the previous mentioned bucket. Is the docker config.json file, to create it do the following:
 
-In order to create it, you need to run the following command: 
+In order to create it, you need to run the following command:
 
 `docker login`
 
@@ -181,11 +179,11 @@ When the continuos deployment setup is ready, we still need to add some configur
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-In this section, you can configure several things, like if you app will have a load balancer in front or it will be a single node application, add environment variables, security, monitoring, etc. But we will be focused on how our sample application will connect to the created RDS DB. 
+In this section, you can configure several things, like if you app will have a load balancer in front or it will be a single node application, add environment variables, security, monitoring, etc. But we will be focused on how our sample application will connect to the created RDS DB.
 
-What we usually do, is to pass the DB configuration parameters as environment variables to our application to don't need to commit sensible data to git repositories. So, this configuration will be stored just in AWS. 
+What we usually do, is to pass the DB configuration parameters as environment variables to our application to don't need to commit sensible data to git repositories. So, this configuration will be stored just in AWS.
 
-To add those env variables to our EBS application, go to Software configuration, and add the variables you are using in the app. 
+To add those env variables to our EBS application, go to Software configuration, and add the variables you are using in the app.
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 

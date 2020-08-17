@@ -4,7 +4,7 @@ CircleCI is a continues integration and continues delivery server. There are no 
 
 When you are dealing with a new project that you want to build, just go to the console, click on the Add project button and you will see a list of all the projects that are not yet integrated with the service
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](https://github.com/nexton-labs/docs/tree/7da9da3c16b52046e57271ac9f6e8f9c76f282e1/.gitbook/assets/image%20%2810%29.png)
 
 Click on Set Up Project and this will send you to a screen to choose in which technology your project was developed and it will show you a config.yml template for that technology
 
