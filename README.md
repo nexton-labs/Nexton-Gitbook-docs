@@ -1,5 +1,7 @@
 # Welcome to Nexton Documentation
 
-* infrastructure
+* Infrastructure
   * [monolithic-architecture](infrastructure/monolithic-architecture/untitled.md)
+* Front End
+  * React
 
