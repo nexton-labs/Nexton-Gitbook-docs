@@ -9,5 +9,5 @@ description: >-
 
 * Javascript ES6
 * CSS
-* [React](React/Readme.md)
+* [React](/front-end/code-style-guide/react.md)
 
