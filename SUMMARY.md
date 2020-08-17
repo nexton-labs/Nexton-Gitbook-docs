@@ -14,6 +14,6 @@
 
 ## Front End
 
-* [Code Style Guide](front-end/untitled/README.md)
-  * [React](front-end/untitled/react.md)
+* [Code Style Guide](front-end/code-style-guide/README.md)
+  * [React](front-end/code-style-guide/react.md)
 
