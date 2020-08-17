@@ -12,7 +12,7 @@
   * [Databases](infrastructure/monolithic-architecture/databases.md)
   * [Putting it all together](infrastructure/monolithic-architecture/putting-it-all-together.md)
 
-## Front End <a id="internal-processes"></a>
+## Front End
 
-* [Code Style Guide](internal-processes/untitled.md)
+* [Code Style Guide](front-end/untitled.md)
 
