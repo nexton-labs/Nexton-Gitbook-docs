@@ -20,6 +20,10 @@
   - [React - Nexton Best Practices](front-end/code-style-guide/react-nexton.md)
 
 - Styling
+
   - [UI Frameworks](front-end/styling/ui-frameworks.md)
   - [Styled Components](front-end/styling/styled-components.md)
   - [SASS](front-end/styling/sass.md)
+
+- SEO
+  - [SEO Fundamentals](front-end/seo/seo-fundamentals.md)
