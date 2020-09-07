@@ -6,21 +6,6 @@ This style guide is mostly based on the standards that are currently prevalent i
 
 Forked from the excellent [Airbnb React Style Guide](https://github.com/airbnb/javascript/blob/master/react/README.md), slightly modified to fit Nexton conventions.
 
-## Table of Contents
-
-1. [Basic Rules](#basic-rules)
-1. [Hooks-Rules](#Hooks-Rules)
-1. [Deprecations](#Deprecations)
-1. [Naming](#naming)
-1. [Declaration](#declaration)
-1. [Alignment](#alignment)
-1. [Quotes](#quotes)
-1. [Spacing](#spacing)
-1. [Props](#props)
-1. [Refs](#refs)
-1. [Parentheses](#parentheses)
-1. [Tags](#tags)
-
 ## Basic Rules
 
 - Only include one React component per file.
@@ -624,7 +609,7 @@ render() {
   />
   ```
 
-# React.JS, Nexton Best Practice.
+# React.JS, Nexton Best Practices.
 
 1. [Keep components small and function-specific](#Keep-components-small-and-function-specific)
 1. [Using Hooks instead of Classes](#Using-Hooks-instead-of-Classes)
